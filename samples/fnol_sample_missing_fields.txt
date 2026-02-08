@@ -1,8 +1,0 @@
-Loss Notice
-
-Policyholder: Jane Doe
-Date of loss: 04/01/2024
-
-Description: Car was damaged in parking lot. No other details provided.
-
-Claim type: auto

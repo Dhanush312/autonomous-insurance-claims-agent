@@ -103,6 +103,7 @@ autonomous-insurance-claims-agent/
 ├── tests/                    # pytest: extraction, routing, API
 ├── samples/                  # Sample FNOL documents (TXT)
 ├── requirements.txt
+├── pyproject.toml            # Project config, pytest options
 ├── .env.example              # Optional env vars (copy to .env)
 └── README.md
 ```

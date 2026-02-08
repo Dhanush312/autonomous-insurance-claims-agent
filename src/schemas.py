@@ -98,19 +98,6 @@ class ExtractedFields(BaseModel):
         return {k: _json_serial(v) for k, v in out.items()}
 
 
-# --- Mandatory field names for routing (missing → manual review) ---
-
-MANDATORY_FIELDS = [
-    "policy_number",
-    "policyholder_name",
-    "incident_date",
-    "incident_location",
-    "incident_description",
-    "claim_type",
-    "initial_estimate_or_estimated_damage",
-]
-
-
 # --- API response (assessment output format) ---
 
 
