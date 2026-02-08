@@ -1,0 +1,34 @@
+ACORD Automobile Loss Notice
+DATE OF LOSS AND TIME: 01/15/2024 10:30 AM
+
+POLICY NUMBER: POL-2024-887654
+NAIC CODE: 12345 CARRIER: Sample Insurance Co. POLICY NUMBER: POL-2024-887654
+
+NAME OF INSURED (First, Middle, Last): John Michael Smith
+INSURED'S MAILING ADDRESS: 123 Oak Street, Austin, TX 78701
+DATE OF BIRTH: 05/22/1985
+
+PRIMARY PHONE #: (512) 555-0100
+PRIMARY E-MAIL ADDRESS: john.smith@email.com
+
+LOCATION OF LOSS
+STREET: 4500 Interstate 35 South
+CITY, STATE, ZIP: Austin, TX 78745
+COUNTRY: USA
+
+DESCRIPTION OF ACCIDENT:
+Vehicle was struck from behind while stopped at a red light. Other driver admitted fault. No injuries. Police report filed.
+
+DRIVER'S NAME AND ADDRESS: John Michael Smith, 123 Oak Street, Austin, TX 78701
+
+INSURED VEHICLE
+V.I.N.: 1HGBH41JXMN109186
+MAKE: Honda MODEL: Accord BODY: Sedan TYPE: 4D YEAR: 2021
+PLATE NUMBER: ABC 1234 STATE: TX
+
+ESTIMATE AMOUNT: $8,500.00
+WHERE CAN VEHICLE BE SEEN?: ABC Collision Center, Austin TX
+WHEN CAN VEHICLE BE SEEN?: Weekdays 8am-5pm
+
+CLAIM TYPE: auto
+Attachments: police_report.pdf, photos.pdf

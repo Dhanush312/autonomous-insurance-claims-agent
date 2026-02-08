@@ -1,0 +1,19 @@
+First Notice of Loss - Automobile
+
+Policy Number: INS-789-XYZ
+Policyholder Name: Maria Garcia
+
+Loss Date: 02/01/2024
+Time of Loss: 3:45 PM
+
+Location of Loss: 7800 N Lamar Blvd, Austin, TX 78752
+Description of accident: Two-vehicle collision at intersection. Driver and passenger reported neck and back pain. Ambulance called. Claim type: injury.
+
+Claimant: Maria Garcia, 456 Elm Ave, Austin TX 78752
+Phone: (512) 555-0200  Email: maria.garcia@email.com
+
+Vehicle: VIN 2T1BURHE5KC123456, Toyota Camry 2019
+Estimate amount: $12,000
+
+Claim type: injury
+Initial estimate: 12000
