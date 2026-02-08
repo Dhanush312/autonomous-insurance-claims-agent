@@ -121,3 +121,13 @@ Copy `.env.example` to `.env` and edit as needed.
 
 ---
 
+## Conclusion
+
+This project is a **lightweight, rule-based FNOL processing API** that:
+
+- **Ingests** First Notice of Loss documents (PDF or text), **extracts** structured fields (policy, incident, claimant, asset, estimate), and **validates** mandatory data.
+- **Routes** each claim to one of five outcomes (Manual review, Investigation Flag, Specialist Queue, Fast-track, or Standard) using the assessment rules, and returns **extractedFields**, **missingFields**, **recommendedRoute**, and **reasoning** in JSON.
+- Runs as a **FastAPI** service with **OpenAPI docs** at `/docs`, uses **PyMuPDF** for PDF parsing and **Pydantic** for schemas, and can be run with **Python 3.10+** and `uvicorn` after `pip install -r requirements.txt`.
+
+
+
