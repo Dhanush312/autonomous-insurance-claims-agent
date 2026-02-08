@@ -1,6 +1,5 @@
 """Routing rules: Fast-track, Manual review, Investigation Flag, Specialist Queue."""
 import re
-from typing import Any
 
 from src.schemas import ExtractedFields
 from src.config import settings
